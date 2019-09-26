@@ -4,6 +4,7 @@ import HelloWorld from '@/components/HelloWorld'
 const Login = () => import('@/components/login')
 
 Vue.use(Router)
+// zxg修改
 export default new Router({
   routes: [
     {
