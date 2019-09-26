@@ -4,6 +4,7 @@ import HelloWorld from '@/components/HelloWorld'
 const Login = () => import('@/components/login')
 
 Vue.use(Router)
+
 export default new Router({
   routes: [
     {
